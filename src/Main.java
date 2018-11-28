@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello Java!");
     }
     public static void main2(String[] args) {
-        System.out.println("First program on Java!");
+        System.out.println("My first program on Java!");
     }
 }
